@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Hacer un programa que calcule e imprima la suma de 3 calificaciones
 public class Ejercicio1 {
     public static void main(String[] args) {
     Scanner entrada = new Scanner (System.in);
